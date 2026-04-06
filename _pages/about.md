@@ -39,7 +39,7 @@ My research interest includes vector graphics generation and generative models.
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background-color: #5261ff;">CVPR 2026</div>
-      <img src='images/OmniLottie.gif' alt="OmniLottie" width="100%">
+      <img src='images/OmniLottie.png' alt="OmniLottie" width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -56,7 +56,7 @@ My research interest includes vector graphics generation and generative models.
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background-color: #2ecc71;">NeurIPS 2025</div>
-      <img src='images/OmniSVG.gif' alt="OmniSVG" width="100%">
+      <img src='images/OmniSVG.png' alt="OmniSVG" width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -69,7 +69,41 @@ My research interest includes vector graphics generation and generative models.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge" style="background-color: #9b59b6;">ACM MM 2025</div>
+      <img src='images/scene123.png' alt="Scene123" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+[**Scene123: One Prompt to 3D Scene Generation via Video-Assisted and Consistency-Enhanced MAE**](https://arxiv.org/abs/2408.05477)
+
+**Yiying Yang**\*, Fukun Yin\*, Jiayuan Fan, Xin Chen, Wanzhang Li, Gang Yu
+
+[![Paper](https://img.shields.io/badge/arXiv-2408.05477-b31b1b.svg)](https://arxiv.org/abs/2408.05477)
+
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge" style="background-color: #34495e;">AAAI 2024</div>
+      <img src='images/pminr.png' alt="Pm-inr" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+[**Pm-inr: Prior-rich multi-modal implicit large-scale scene neural representation**](https://ojs.aaai.org/index.php/AAAI/article/view/28481)
+
+**Yiying Yang**, Fukun Yin, Wen Liu, Jiayuan Fan, Xin Chen, Gang Yu, Tao Chen
+
+[![Paper](https://img.shields.io/badge/Paper-AAAI-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/28481)
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
