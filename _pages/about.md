@@ -39,7 +39,7 @@ My research interest includes vector graphics generation and generative models.
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background-color: #5261ff;">CVPR 2026</div>
-      <img src='images/OmniLottie.png' alt="OmniLottie" width="100%">
+      <img src='images/OmniLottie.gif' alt="OmniLottie" width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -48,10 +48,7 @@ My research interest includes vector graphics generation and generative models.
 
 **Yiying Yang**, Wei Cheng, Sijin Chen, Honghao Fu, Xianfang Zeng, Yujun Cai, Gang Yu, Xingjun Ma
 
-[![Project](https://img.shields.io/badge/Project-Page-lightgrey)](https://openvglab.github.io/OmniLottie/) [![Paper](https://img.shields.io/badge/arXiv-2603.02138-b31b1b.svg)](https://arxiv.org/abs/2603.02138) [![GitHub stars](https://img.shields.io/github/stars/OpenVGLab/OmniLottie?style=social)](https://github.com/OpenVGLab/OmniLottie)
-
-- First-of-its-kind auto-regressive vector animation generation with parameterized Lottie tokens.
-- <span style="color: #e74c3c;">**First Author**</span>
+[![Project](https://img.shields.io/badge/Project-Page-lightgrey)](https://openvglab.github.io/OmniLottie/) [![Paper](https://img.shields.io/badge/arXiv-2603.02138-b31b1b.svg)](https://arxiv.org/abs/2603.02138) [![GitHub stars](https://img.shields.io/github/stars/OpenVGLab/OmniLottie?style=social)](https://github.com/OpenVGLab/OmniLottie) [![Huggingface](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue)](https://huggingface.co/OmniLottie) 
 </div>
 </div>
 
@@ -59,7 +56,7 @@ My research interest includes vector graphics generation and generative models.
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background-color: #2ecc71;">NeurIPS 2025</div>
-      <img src='images/OmniSVG.png' alt="OmniSVG" width="100%">
+      <img src='images/OmniSVG.gif' alt="OmniSVG" width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -68,10 +65,7 @@ My research interest includes vector graphics generation and generative models.
 
 **Yiying Yang**\*, Wei Cheng\*, Sijin Chen, Xianfang Zeng, Jiaxu Zhang, Liao Wang, Gang Yu, Xingjun Ma, Yu-Gang Jiang
 
-[![Project](https://img.shields.io/badge/Project-Page-lightgrey)](https://omnisvg.github.io/) [![Paper](https://img.shields.io/badge/arXiv-2504.06263-b31b1b.svg)](https://arxiv.org/pdf/2504.06263) [![GitHub stars](https://img.shields.io/github/stars/OmniSVG/OmniSVG?style=social)](https://github.com/OmniSVG/OmniSVG)
-
-- A unified model that generates vivid SVGs from multi-modal conditions.
-- <span style="color: #e74c3c;">**First Author**</span> (Co-first)
+[![Project](https://img.shields.io/badge/Project-Page-lightgrey)](https://omnisvg.github.io/) [![Paper](https://img.shields.io/badge/arXiv-2504.06263-b31b1b.svg)](https://arxiv.org/pdf/2504.06263) [![GitHub stars](https://img.shields.io/github/stars/OmniSVG/OmniSVG?style=social)](https://github.com/OmniSVG/OmniSVG) [![Huggingface](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue)](https://huggingface.co/OmniSVG)
 </div>
 </div>
 
