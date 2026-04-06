@@ -118,7 +118,7 @@ My research interest includes vector graphics generation and generative models.
 
 **Yiying Yang**, Wen Liu, Fukun Yin, Xin Chen, Gang Yu, Jiayuan Fan, Tao Chen
 
-[![Paper](https://img.shields.io/badge/arXiv-2408.05477-b31b1b.svg)](https://arxiv.org/abs/2310.14487)
+[![Paper](https://img.shields.io/badge/arXiv-2310.14487-b31b1b.svg)](https://arxiv.org/abs/2310.14487)
 
 </div>
 </div>
