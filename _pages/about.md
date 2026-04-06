@@ -39,7 +39,7 @@ My research interest includes vector graphics generation and generative models.
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background-color: #5261ff;">CVPR 2026</div>
-      <img src='images/OmniLottie.png' alt="OmniLottie" width="100%">
+      <img src='images/OmniLottie.gif' alt="OmniLottie" width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -56,7 +56,7 @@ My research interest includes vector graphics generation and generative models.
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background-color: #2ecc71;">NeurIPS 2025</div>
-      <img src='images/OmniSVG.png' alt="OmniSVG" width="100%">
+      <img src='images/OmniSVG.gif' alt="OmniSVG" width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -101,6 +101,24 @@ My research interest includes vector graphics generation and generative models.
 **Yiying Yang**, Fukun Yin, Wen Liu, Jiayuan Fan, Xin Chen, Gang Yu, Tao Chen
 
 [![Paper](https://img.shields.io/badge/Paper-AAAI-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/28481)
+
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge" style="background-color: #34495e;">AAAI 2024</div>
+      <img src='images/vqnerf.png' alt="Pm-inr" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+[**Vq-nerf: Vector quantization enhances implicit neural representations**](https://arxiv.org/abs/2310.14487)
+
+**Yiying Yang**, Wen Liu, Fukun Yin, Xin Chen, Gang Yu, Jiayuan Fan, Tao Chen
+
+[![Paper](https://img.shields.io/badge/Paper-AAAI-blue)](Yiying Yang, Wen Liu, Fukun Yin, Xin Chen, Gang Yu, Jiayuan Fan, Tao Chen)
 
 </div>
 </div>
