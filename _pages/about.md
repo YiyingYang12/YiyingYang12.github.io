@@ -26,12 +26,12 @@ My research interest includes vector graphics generation and generative models.
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 [OmniLottie](https://openvglab.github.io/OmniLottie/) was accepted by CVPR 2026. 
+- *2026.02*: &nbsp;🎉🎉  We release [OmniLottie](https://openvglab.github.io/OmniLottie/), the first Lottie Generation model. Now accepted to <span style="color: #e74c3c;">**CVPR 2026**</span>!
   [![GitHub stars](https://img.shields.io/github/stars/OpenVGLab/OmniLottie?style=social)](https://github.com/OpenVGLab/OmniLottie)
-- *2025.09*: &nbsp;🎉🎉 [OmniSVG](https://omnisvg.github.io/) was accepted by NeurIPS 2025. 
+- *2025.09*: &nbsp;🎉🎉 We release [OmniSVG](https://omnisvg.github.io/) a family of VLMs that generate SVGs. Now accepted to <span style="color: #e74c3c;">**NeurIPS 2025**</span>! 
   [![GitHub stars](https://img.shields.io/github/stars/OmniSVG/OmniSVG?style=social)](https://github.com/OmniSVG/OmniSVG)
-- *2025.07*: &nbsp;🎉🎉 [Scene123](https://ojs.aaai.org/index.php/AAAI/article/view/28481) was accepted by ACMMM 2025.  
-- *2023.12*: &nbsp;🎉🎉 [Pm-inr](https://ojs.aaai.org/index.php/AAAI/article/view/28481) was accepted by AAAI 2024. 
+- *2025.07*: &nbsp;🎉🎉 [Scene123](https://ojs.aaai.org/index.php/AAAI/article/view/28481) was accepted by <span style="color: #e74c3c;">**ACMMM 2025**</span>.  
+- *2023.12*: &nbsp;🎉🎉 [Pm-inr](https://ojs.aaai.org/index.php/AAAI/article/view/28481) was accepted by <span style="color: #e74c3c;">**AAAI 2024**</span>. 
 
 # 📝 Publications 
 
@@ -118,7 +118,7 @@ My research interest includes vector graphics generation and generative models.
 
 **Yiying Yang**, Wen Liu, Fukun Yin, Xin Chen, Gang Yu, Jiayuan Fan, Tao Chen
 
-[![Paper](https://img.shields.io/badge/Paper-AAAI-blue)](Yiying Yang, Wen Liu, Fukun Yin, Xin Chen, Gang Yu, Jiayuan Fan, Tao Chen)
+[![Paper](https://img.shields.io/badge/arXiv-2408.05477-b31b1b.svg)](https://arxiv.org/abs/2310.14487)
 
 </div>
 </div>
