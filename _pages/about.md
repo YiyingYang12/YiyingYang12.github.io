@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD Candidate at the College of Computer Science and Artificial Intelligence, Fudan University (expected 2028) w/ Prof. [Xingjun Ma](https://xingjunm.github.io/). 
+I am currently a PhD Candidate at the College of Computer Science and Artificial Intelligence, Fudan University w/ Prof. [Xingjun Ma](https://xingjunm.github.io/). 
 
 Previously, I began my graduate studies at Fudan University in 2023 as a Master’s student and was fast-tracked/recommended for the doctoral program in 2025. Prior to this, I earned my Bachelor’s degree from Fudan University in 2023. In addition to my academic studies, I have been a Research Intern at
 StepFun since June 2024, focusing on vector graphics generation. I am honored to work closely with [Wei Cheng](https://wchengad.github.io/) (StepFun), [Sijin Chen](https://ch3cook-fdu.github.io/)  (HKU MMLab), and Dr. [Gang Yu](https://www.skicyyu.org/) (StepFun).
