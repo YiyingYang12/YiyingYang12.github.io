@@ -17,26 +17,61 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a PhD Candidate at the College of Computer Science and Artificial Intelligence, Fudan University (expected 2028) w/ Prof. [Xingjun Ma](https://xingjunm.github.io/). 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Previously, I began my graduate studies at Fudan University in 2023 as a Master’s student and was fast-tracked/recommended for the doctoral program in 2025. Prior to this, I earned my Bachelor’s degree from Fudan University in 2023. In addition to my academic studies, I have been a Research Intern at
+StepFun since June 2024, focusing on vector graphics generation. I am honored to work closely with [Wei Cheng](https://wchengad.github.io/) (StepFun), [Sijin Chen](https://ch3cook-fdu.github.io/)  (HKU MMLab), and Dr. [Gang Yu](https://www.skicyyu.org/) (StepFun).
+
+My research interest includes vector graphics generation and generative models.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.02*: &nbsp;🎉🎉 [OmniLottie](https://openvglab.github.io/OmniLottie/) was accepted by CVPR 2026. 
+  [![GitHub stars](https://img.shields.io/github/stars/OpenVGLab/OmniLottie?style=social)](https://github.com/OpenVGLab/OmniLottie)
+- *2025.09*: &nbsp;🎉🎉 [OmniSVG](https://omnisvg.github.io/) was accepted by NeurIPS 2025. 
+  [![GitHub stars](https://img.shields.io/github/stars/OmniSVG/OmniSVG?style=social)](https://github.com/OmniSVG/OmniSVG)
+- *2025.07*: &nbsp;🎉🎉 [Scene123](https://ojs.aaai.org/index.php/AAAI/article/view/28481) was accepted by ACMMM 2025.  
+- *2023.12*: &nbsp;🎉🎉 [Pm-inr](https://ojs.aaai.org/index.php/AAAI/article/view/28481) was accepted by AAAI 2024. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge" style="background-color: #5261ff;">CVPR 2026</div>
+      <img src='images/OmniLottie.png' alt="OmniLottie" width="100%">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[**OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens**](https://openvglab.github.io/OmniLottie/)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yiying Yang**, Wei Cheng, Sijin Chen, Honghao Fu, Xianfang Zeng, Yujun Cai, Gang Yu, Xingjun Ma
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[![Project](https://img.shields.io/badge/Project-Page-lightgrey)](https://openvglab.github.io/OmniLottie/) [![Paper](https://img.shields.io/badge/arXiv-2603.02138-b31b1b.svg)](https://arxiv.org/abs/2603.02138) [![GitHub stars](https://img.shields.io/github/stars/OpenVGLab/OmniLottie?style=social)](https://github.com/OpenVGLab/OmniLottie)
+
+- First-of-its-kind auto-regressive vector animation generation with parameterized Lottie tokens.
+- <span style="color: #e74c3c;">**First Author**</span>
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge" style="background-color: #2ecc71;">NeurIPS 2025</div>
+      <img src='images/OmniSVG.png' alt="OmniSVG" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+[**OmniSVG: A Unified Scalable Vector Graphics Generation Model**](https://omnisvg.github.io/)
+
+**Yiying Yang**\*, Wei Cheng\*, Sijin Chen, Xianfang Zeng, Jiaxu Zhang, Liao Wang, Gang Yu, Xingjun Ma, Yu-Gang Jiang
+
+[![Project](https://img.shields.io/badge/Project-Page-lightgrey)](https://omnisvg.github.io/) [![Paper](https://img.shields.io/badge/arXiv-2504.06263-b31b1b.svg)](https://arxiv.org/pdf/2504.06263) [![GitHub stars](https://img.shields.io/github/stars/OmniSVG/OmniSVG?style=social)](https://github.com/OmniSVG/OmniSVG)
+
+- A unified model that generates vivid SVGs from multi-modal conditions.
+- <span style="color: #e74c3c;">**First Author**</span> (Co-first)
 </div>
 </div>
 
