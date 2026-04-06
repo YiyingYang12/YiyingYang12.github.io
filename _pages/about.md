@@ -108,7 +108,7 @@ My research interest includes vector graphics generation and generative models.
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge" style="background-color: #34495e;">AAAI 2024</div>
+      <div class="badge" style="background-color: #34495e;">Arxiv Preprint</div>
       <img src='images/vqnerf.png' alt="Pm-inr" width="100%">
     </div>
   </div>
@@ -124,16 +124,16 @@ My research interest includes vector graphics generation and generative models.
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10* Panasonic Scholarship, Fudan University. 
+- *2023.06* Outstanding Graduates, Fudan University.
+- *2022.10* First Class Scholarship, Fudan University.
+- *2021,2022* Third Prize, 5th China Post-Graduate Artificial Intelligence Contest (Leader). 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 - 2028.06(now)*, Ph.D. in Computer Science and Technology, Fudan University. 
+- *2023.09 - 2025.06*, Master in Computer Science and Technology, Fudan University. 
+- *2019.09 - 2023.06*, Bachelor in Electrical Engineering and Automation, Fudan University. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.06 - now*, [StepFun](https://www.stepfun.com/company), China.
