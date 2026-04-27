@@ -24,6 +24,7 @@ StepFun since June 2024, focusing on vector graphics generation. I am honored to
 
 My research interest includes vector graphics generation and generative models.
 
+📣 📣 I am actively looking for positions for research intern!
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉  We release [OmniLottie](https://openvglab.github.io/OmniLottie/), the first Lottie Generation model. Now accepted to <span style="color: #e74c3c;">**CVPR 2026**</span>!
